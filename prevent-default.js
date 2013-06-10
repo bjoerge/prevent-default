@@ -1,6 +1,6 @@
 module.exports = function preventDefault(listener) {
   return function(ev) {
-    e.preventDefault();
+    ev.preventDefault();
     return listener.call(this, ev) === true;
   }
 };
