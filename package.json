@@ -1,0 +1,16 @@
+{
+  "name": "prevent-default",
+  "version": "0.0.0",
+  "description": "Prevent-default decorator for DOM listeners",
+  "main": "prevent-default.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bjoerge/prevent-default"
+  },
+  "keywords": [
+    "prevent-default",
+    "preventDefault"
+  ],
+  "author": "Bjørge Næss",
+  "license": "MIT"
+}
