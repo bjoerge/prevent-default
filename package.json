@@ -1,6 +1,6 @@
 {
   "name": "prevent-default",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Prevent-default decorator for DOM listeners",
   "main": "prevent-default.js",
   "repository": {
